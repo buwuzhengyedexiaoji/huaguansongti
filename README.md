@@ -16,7 +16,7 @@
 > 
 > 如有加字需求，更改字形需求可在ISSUE反馈，但是目前因为字不多，所以加字需求会优先受理。
 ## 加入我们
-花馆宋体使用 [Fontcreator](https://fontcreator.com.cn/) 专业版进行制作，使用 [Fontra](https://github.com/googlefonts/fontra) 的 [rjck](https://github.com/googlefonts/fontra-rcjk) 等插件进行辅助制作。欢迎各路字体爱好者，字体设计师等人参与制作。如要参与可申请加入（QQ：470491160，字体的交流与软件的讨论群）参与制作，或提出您宝贵的意见，我们虚心接受。
+花馆宋体使用 [Fontcreator](https://fontcreator.com.cn/) 专业版进行制作，使用 [Fontra](https://github.com/googlefonts/fontra) 的 [rjck](https://github.com/googlefonts/fontra-rcjk) 等插件进行辅助制作。欢迎各路字体爱好者，字体设计师等人参与制作。如要参与或者获取最新进度可申请加入（QQ：470491160，花馆宋体的交流与软件的讨论群）参与制作，或提出您宝贵的意见，我们虚心接受。
 ## 鸣谢
 [High-logic](https://www.high-logic.com/) 的 [Fontcreator](https://www.high-logic.com/font-editor/fontcreator) 
 
