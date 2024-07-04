@@ -51,3 +51,5 @@
 [Steve-Yuu](https://github.com/Steve-Yuu) 的 [Y式書體](https://github.com/Steve-Yuu/YshiShuti) 和 [Y式源明朝体](https://github.com/Steve-Yuu/Yshi-YuanMincho)
 
 [朱谷力黑体](https://github.com/MoonlitOwen/ChocolateSans)
+
+假名参考[佑字](https://github.com/Kinutafontfactory/Yuji)
