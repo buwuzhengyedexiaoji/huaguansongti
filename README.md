@@ -52,6 +52,4 @@
 
 [朱谷力黑体](https://github.com/MoonlitOwen/ChocolateSans)
 
-[寒蝉锦书宋](https://github.com/Warren2060/Chilljinshusong)
-
 假名参考[佑字](https://github.com/Kinutafontfactory/Yuji)
